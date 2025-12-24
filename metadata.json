@@ -1,0 +1,7 @@
+{
+  "name": "Radar IA",
+  "description": "Monitoramento & Atendimento Inteligente com Integração WhatsApp",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
